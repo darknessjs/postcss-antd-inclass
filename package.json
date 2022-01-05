@@ -1,0 +1,7 @@
+{
+  "name": "postcss-antd-inclass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Darkness.XieJingLing <JingLing.Xie@geely.com>",
+  "license": "MIT"
+}
